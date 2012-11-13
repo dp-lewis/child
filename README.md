@@ -1,0 +1,4 @@
+child
+=====
+
+Submodule test child
